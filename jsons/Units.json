@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Dreamcrafter",
+    "unitType": "Missile",
+    "movement": 1,
+    "uniques": [
+      "Founds a new puppet city",
+      "Unbuildable", "Uncapturable",
+      "Can be purchased for [1000] [Culture] [in capital]",
+      "May found a religion <by consuming this unit>",
+      "May enhance a religion <by consuming this unit>",
+      "Can instantly construct a [City center] improvement <by consuming this unit>",
+      "[5] Movement <during a Golden Age>",
+      "Is part of Great Person group [Great Person]",
+      "Great Person - [Everything]",
+      "[10] Free Social Policies <by consuming this unit>",
+      "[1000000] population [in capital] <by consuming this unit> <during a Golden Age> <on [Deity] difficulty> <on [Marathon] game speed>",
+      "[10] Free Technologies <during a Golden Age> <on [Deity] difficulty> <on [Marathon] game speed> <by consuming this unit>",
+      "Nullifies Growth [in enemy cities] <by consuming this unit>",
+      "Never appears as a Barbarian unit",
+      "Self-destructs when attacking",
+      "Can hurry technology research",
+      "Empire enters a [12]-turn Golden Age <by consuming this unit>",
+      "May Paradrop to [All] tiles up to [10] tiles away"
+    ],
+    "strength": 1000,
+    "rangedStength": 1000,
+    "range": 15
+  }
+]
