@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Talent Show",
+    "cost": 75,
+    "culture": 5,
+    "happiness": 5,
+    "gold": 3,
+    "maintenance": 2,
+    "requiredBuilding": "Amphitheater",
+    "requiredTech": "Folklore",
+    "greatPersonPoints": {"Great Artist": 5, "Dreamcrafter": 1},
+    "specialistSlots": {"Artist": 2, "Merchant": 2, "Engineer": 1, "Scientist": 1, "Storyteller": 3}
+  }
+]
