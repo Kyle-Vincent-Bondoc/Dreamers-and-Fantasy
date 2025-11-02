@@ -24,5 +24,25 @@
     "strength": 1000,
     "rangedStength": 1000,
     "range": 15
+  },
+  {
+    "name": "Civilian",
+    "unitType": "Civilian",
+    "cost": 30,
+    "movement": 1,
+    "uniques": [
+      "[1] population [in capital] <by consuming this unit>",
+      "Can upgrade to [Worker]",
+      "Can upgrade to [Settler]",
+      "Can upgrade to [Warrior]",
+      "Can upgrade to [Archer]",
+      "Can upgrade to [Missionary]",
+      "Only available <starting from the [Medieval era]>",
+      "Can build [Improvement] improvements at a [-75]% rate",
+      "Founds a new city <for [City-State] Civilizations>"
+    ],
+    "civilopediaText": [
+      {"text": "Just an unemloyed Civilian walkin' around."}
+    ]
   }
 ]
