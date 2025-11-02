@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Storyteller",
+    "culture": 5,
+    "faith": 3,
+    "happiness": 3,
+    "color": [160,32,240],
+    "greatPersonPoints": {"Great Artist": 3, "Dreamcrafter": 2}
+  }
+]
