@@ -200,12 +200,12 @@
 				"prerequisites": ["Philosophy", "Drama and Poetry"],
 				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
 			},
-      {
-        "name": "Cultural Preservation",
-        "row": 3,
-        "prerequisites": ["Philosophy"],
-        "quote": "'If we are to preserve culture we must continue to create it' - Johan Huizinga"
-      },
+     	    {
+       	        "name": "Cultural Preservation",
+                "row": 3,
+                "prerequisites": ["Philosophy"],
+                "quote": "'If we are to preserve culture we must continue to create it' - Johan Huizinga"
+            },
 			{
 				"name": "Civil Service",
 				"row": 5,
