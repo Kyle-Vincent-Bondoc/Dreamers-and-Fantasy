@@ -246,7 +246,7 @@
 			},
             {
                 "name": "Folklore",
-                "row": 2,
+                "row": 4,
                 "prerequisites": ["Cultural Preservation","Drama and Poetry"],
                 "uniques": ["[-15]% Unhappiness from [Followers of the Majority Religion] [in all cities in which the majority religion is a major religion]", "[-25]% weight to this choice for AI decisions"],
                 "quote": "'Folklore is the boiled-down juice, or pot-likker, of human living.' — Zora Neale Hurston"
