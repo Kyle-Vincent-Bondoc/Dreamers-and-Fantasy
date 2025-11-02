@@ -241,16 +241,16 @@
 				"cost": 375,
 				"row": 1,
 				"prerequisites": ["Optics","Theology"],
-        "uniques": ["[-50]% weight to this choice for AI decisions"],
+                "uniques": ["[-50]% weight to this choice for AI decisions"],
 				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
 			},
-      {
-        "name": "Folklore",
-        "row": 2,
-        "prerequisites": ["Cultural Preservation","Drama and Poetry"],
-        "uniques": ["[-15]% Unhappiness from [Followers of the Majority Religion] [in all cities in which the majority religion is a major religion]", "[-25]% weight to this choice for AI decisions"],
-        "quote": "'Folklore is the boiled-down juice, or pot-likker, of human living.' — Zora Neale Hurston"
-      },
+            {
+                "name": "Folklore",
+                "row": 2,
+                "prerequisites": ["Cultural Preservation","Drama and Poetry"],
+                "uniques": ["[-15]% Unhappiness from [Followers of the Majority Religion] [in all cities in which the majority religion is a major religion]", "[-25]% weight to this choice for AI decisions"],
+                "quote": "'Folklore is the boiled-down juice, or pot-likker, of human living.' — Zora Neale Hurston"
+            },
 			{
 				"name": "Education",
 				"row": 3,
